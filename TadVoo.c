@@ -3,16 +3,6 @@
 #include "TadVoo.h"
 
 
-/*
-void nicializa(TipoVoo *voo,char *HorarioVoo,char *HorarioPouso,char *AeroportoDecolagem,char *AeroportoPouso, int IdentificadorPista)
-{
-    strcpy(voo->HorarioVoo, NULL);
-    strcpy(voo->HorarioPouso, NULL);
-    strcpy(voo->AeroportoDecolagem, NULL);
-    strcpy(voo->AeroportoPouso, NULL);
-    voo->IdentificadorPista = 0;
-}
-*/
 void Inicializa(TipoVoo *voo){
     voo = NULL;
 }
@@ -66,3 +56,16 @@ void SetIdentificadorPista(TipoVoo *voo, int IdentificadorPista)
 {
     voo->IdentificadorPista = IdentificadorPista;
 }
+
+int converteHorario(char *horario){
+    int i,minutosTotal = 0;
+    for(i=0;i<5;i++){
+        horario[i] = horario[i] - 48;
+    }
+    minutosTotal += (horario[0] * 10) * 60;
+    minutosTotal += horario[1] * 60;
+    minutosTotal += horario[3] * 10;
+    minutosTotal += horario[4];
+    return minutosTotal;
+}
+

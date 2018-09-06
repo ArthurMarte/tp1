@@ -7,9 +7,11 @@ typedef struct
     int IdentificadorPista, VID;
 }TipoVoo;
 
-//void nicializa(TipoVoo *voo,char *HorarioVoo,char *HorarioPouso,char *AeroportoDecolagem,char *AeroportoPouso, int IdentificadorPista);
+
 void Inicializa(TipoVoo *voo);
+
 int GetVid(TipoVoo *voo);
+
 int SetVid(TipoVoo *voo, int VID);
 
 char GetHorarioVoo(TipoVoo *voo);
@@ -27,8 +29,7 @@ void SetAeroportoPouso(TipoVoo *voo, char AeroportoPouso);
 int GetIdentificadorPista(TipoVoo *voo);
 void SetIdentificadorPista(TipoVoo *voo, int IdentificadorPista);
 
-
-
+int converteHorario(char *horario);
 
 
 
