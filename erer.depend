@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1536243869 source:c:\users\aluno\desktop\erer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadVoo.h"
+
+1536243837 c:\users\aluno\desktop\erer\tadvoo.c
+	<stdio.h>
+	<stdlib.h>
+	"TadVoo.h"
+
+1536243849 c:\users\aluno\desktop\erer\tadvoo.h
+	<stdio.h>
+	<stdlib.h>
+
+1536243837 source:c:\users\aluno\desktop\erer\tadvoo.c
+	<stdio.h>
+	<stdlib.h>
+	"TadVoo.h"
+
