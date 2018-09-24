@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1536862871 source:c:\users\arthu\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadLista_De_Voos.h"
+
+1536862765 c:\users\arthu\desktop\tp1\tadlista_de_voos.h
+	<stdio.h>
+	<stdlib.h>
+	"TadVoo.h"
+
+1536861188 c:\users\arthu\desktop\tp1\tadvoo.h
+	<stdio.h>
+	<stdlib.h>
+
+1536862928 source:c:\users\arthu\desktop\tp1\tadlista_de_voos.c
+	<stdio.h>
+	<stdlib.h>
+	"TadLista_De_Voos.h"
+
+1536861197 source:c:\users\arthu\desktop\tp1\tadvoo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"TadVoo.h"
+
+1537047008 source:c:\users\andre\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadMatriz_Voos.h"
+	<time.h>
+	<string.h>
+
+1537047329 c:\users\andre\desktop\tp1\tadlista_de_voos.h
+	<stdio.h>
+	<stdlib.h>
+	"TadVoo.h"
+
+1537044507 c:\users\andre\desktop\tp1\tadvoo.h
+	<stdio.h>
+	<stdlib.h>
+
+1537033636 source:c:\users\andre\desktop\tp1\tadlista_de_voos.c
+	<stdio.h>
+	<stdlib.h>
+	"TadLista_De_Voos.h"
+
+1537044120 source:c:\users\andre\desktop\tp1\tadvoo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TadVoo.h"
+
+1537045577 source:c:\users\andre\desktop\tp1\taditem_matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TadItem_Matriz.h"
+
+1537045577 c:\users\andre\desktop\tp1\taditem_matriz.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"TadLista_De_Voos.h"
+
+1537047032 source:c:\users\andre\desktop\tp1\tadmatriz_voos.c
+	<stdio.h>
+	<stdlib.h>
+	"TadMatriz_Voos.h"
+
+1537046518 c:\users\andre\desktop\tp1\tadmatriz_voos.h
+	<stdio.h>
+	<stdlib.h>
+	"TadItem_Matriz.h"
+
+1537812145 source:c:\users\arthu\desktop\tp1 (atualizado) 15-09\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadMatriz_Voos.h"
+	<time.h>
+	<string.h>
+
+1537551984 c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadmatriz_voos.h
+	<stdio.h>
+	<stdlib.h>
+	"TadItem_Matriz.h"
+	<time.h>
+
+1537365825 c:\users\arthu\desktop\tp1 (atualizado) 15-09\taditem_matriz.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"TadLista_De_Voos.h"
+
+1537813104 c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadlista_de_voos.h
+	<stdio.h>
+	<stdlib.h>
+	"TadVoo.h"
+
+1537365384 c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadvoo.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1537813226 source:c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadlista_de_voos.c
+	<stdio.h>
+	<stdlib.h>
+	"TadLista_De_Voos.h"
+
+1537555346 source:c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadvoo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TadVoo.h"
+
+1537365825 source:c:\users\arthu\desktop\tp1 (atualizado) 15-09\taditem_matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TadItem_Matriz.h"
+
+1537811377 source:c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadmatriz_voos.c
+	<stdio.h>
+	<stdlib.h>
+	"TadMatriz_Voos.h"
+
+1537812254 source:c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadinterface.c
+	<stdio.h>
+	<stdlib.h>
+	"TadInterface.h"
+
+1537812254 c:\users\arthu\desktop\tp1 (atualizado) 15-09\tadinterface.h
+	<stdio.h>
+	<stdlib.h>
+	"TadMatriz_Voos.h"
+
